@@ -1,0 +1,9 @@
+{
+	"name": "BBCode4D",
+	"description": "Simple BBCode interpreter for Delphi",
+	"version": "1.0.0",
+	"homepage": "https://github.com/weslleycapelari",
+	"mainsrc": "./src",
+	"projects": [],
+	"dependencies": {}
+}
