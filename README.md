@@ -1,5 +1,4 @@
 <a name="readme-top"></a>
-![Contributors](https://img.shields.io/github/all-contributors/weslleycapelari/BBCode4D)
 ![Forks](https://img.shields.io/github/forks/weslleycapelari/BBCode4D)
 ![Stargazers](https://img.shields.io/github/stars/weslleycapelari/BBCode4D)
 ![Issues](https://img.shields.io/github/issues/weslleycapelari/BBCode4D)
